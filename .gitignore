@@ -1,0 +1,8 @@
+credentials
+.terraform
+*.terraform/
+Terraform_vars.sh   
+git-script.sh
+ssh_keys
+.terragrunt-cache
+*tfstate*

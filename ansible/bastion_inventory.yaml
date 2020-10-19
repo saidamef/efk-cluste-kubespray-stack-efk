@@ -1,0 +1,7 @@
+    bastion:
+      hosts:
+        bastion:
+          ansible_host: bastion_ip
+          ansible_user: bastion_user
+          ip: bastion_ip
+          access_ip: bastion_ip
